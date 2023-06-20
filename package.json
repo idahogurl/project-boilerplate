@@ -35,7 +35,7 @@
     "graphql-tools": "^3.0.2",
     "graphql-tools-types": "^1.1.21",
     "merge-graphql-schemas": "^1.5.1",
-    "pg": "^7.4.3",
+    "pg": "^8.4.0",
     "prop-types": "^15.6.1",
     "react": "^16.4.1",
     "react-apollo": "^2.1.6",
@@ -44,7 +44,7 @@
     "react-fela": "^7.3.0",
     "react-router-dom": "^4.2.2",
     "react-router-prop-types": "^1.0.4",
-    "sequelize": "^5.8.11",
+    "sequelize": "^6.1.0",
     "sequelize-cli": "^5.5.0",
     "sequelize-heroku": "^2.0.0",
     "uuid": "^3.2.1"
